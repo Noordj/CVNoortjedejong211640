@@ -6,9 +6,16 @@
 /* Styles for the body */
 
 body {
-	font-family: 'Roboto Mono', monospace;
-	color: #202030;
+
 	background-color: #f8f8fc;
+}
+.text-center {
+  font-family: Arial, sans-serif;
+  font-size: 34px;
+  font-weight: bolder;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  letter-spacing: 3px;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
