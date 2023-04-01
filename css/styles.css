@@ -11,11 +11,11 @@ body {
 }
 .text-center {
   font-family: Arial, sans-serif;
-  font-size: 34px;
+  font-size: 39px;
   font-weight: bolder;
   color: #FFFFFF;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 2px;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
